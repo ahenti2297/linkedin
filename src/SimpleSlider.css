@@ -1,0 +1,9 @@
+.box{
+    display: flex !important;
+    width: 40%;
+}
+
+
+.box img{
+    width: 40%;
+}
